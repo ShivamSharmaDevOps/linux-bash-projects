@@ -55,6 +55,13 @@ A collection of practical Bash scripting projects built while practicing Linux a
 - systemctl
 - date
 
+### 5. File Permission Manager
+- View file permissions
+- Change file permissions
+- Change file owner
+- Change file group
+- Validate file existence before making changes
+
 ## 🚀 How to Run
 
 ```bash
