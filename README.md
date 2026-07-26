@@ -62,6 +62,34 @@ A collection of practical Bash scripting projects built while practicing Linux a
 - Change file group
 - Validate file existence before making changes
 
+- # 6. User Report Generator
+
+A simple Bash script to generate Linux user reports using a menu-driven interface.
+
+## Features
+
+- View total users in the system
+- Display users with Bash shell
+- Show currently logged-in users
+- Generate and save a user report with the current date
+- Menu-driven interface
+
+## Technologies Used
+
+- Bash Scripting
+- Linux
+- grep
+- wc
+- who
+- date
+
+## Project Structure
+
+```
+User-Report-Generator.sh
+README.md
+```
+
 ## 🚀 How to Run
 
 ```bash
